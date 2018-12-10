@@ -1,5 +1,6 @@
-# studivz
-I was sadly watching studivz fading away ... So I decided to rescue all my memories with a CLI.
+# studivz-crawler
+I was sadly watching studiVZ fading away ... the social network of my early student days.  
+Therefore I decided to save all my memories with a CLI.
 
 studivz-crawler downloads all your text-memories as json-files + your photos as jpg.  
 **Text information as json**: "Meine Seite", "Pinnwand", "Nachrichten", "Meine Freunde" + their "Pinnwand"  
