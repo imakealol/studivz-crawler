@@ -1,16 +1,16 @@
 # studivz
 I was sadly watching studivz fading away ... So I decided to rescue all my memories with a CLI.
 
-This Crawler lets you download all your text-memories as json-files + your photos.
-**Text information as json**: "Meine Seite", "Pinnwand", "Nachrichten", "Meine Freunde" + their "Pinnwand"
-**Photos**: "Meine Fotos", "Meine Verlinkungen" + related albums
+studivz-crawler downloads all your text-memories as json-files + your photos as jpg.  
+**Text information as json**: "Meine Seite", "Pinnwand", "Nachrichten", "Meine Freunde" + their "Pinnwand"  
+**Photos**: "Meine Fotos", "Meine Verlinkungen" + related albums  
 
 ## Installation
-**chromedirver**
-MacOS: `brew cask install chromedriver`
+**chromedriver**  
+MacOS: `brew cask install chromedriver`  
 Others: [Download chromedriver](https://sites.google.com/a/chromium.org/chromedriver/downloads)
 
-**python dependencies**
+**python dependencies**  
 `pip install -q -r requirements.txt`
 
 ## Start CLI
